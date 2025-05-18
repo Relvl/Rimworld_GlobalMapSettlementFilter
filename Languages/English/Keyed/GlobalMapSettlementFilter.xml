@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<LanguageData>
+    <GlobalMapSettlementFilter.Widget.Label>Settlement filter</GlobalMapSettlementFilter.Widget.Label>
+    
+    <GlobalMapSettlementFilter.Widget.ShowAlly>Show ally</GlobalMapSettlementFilter.Widget.ShowAlly>
+    <GlobalMapSettlementFilter.Widget.ShowNeutral>Show neutral</GlobalMapSettlementFilter.Widget.ShowNeutral>
+    <GlobalMapSettlementFilter.Widget.ShowHostile>Show hostile</GlobalMapSettlementFilter.Widget.ShowHostile>
+    <GlobalMapSettlementFilter.Widget.HideEverVisited>Hide ever visited</GlobalMapSettlementFilter.Widget.HideEverVisited>
+    <GlobalMapSettlementFilter.Widget.HideVisitedRecently>Hide visited recently</GlobalMapSettlementFilter.Widget.HideVisitedRecently>
+</LanguageData>

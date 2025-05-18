@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<LanguageData>
+    <GlobalMapSettlementFilter.Widget.Label>Фильтр поселений</GlobalMapSettlementFilter.Widget.Label>
+    
+    <GlobalMapSettlementFilter.Widget.ShowAlly>Показать союзников</GlobalMapSettlementFilter.Widget.ShowAlly>
+    <GlobalMapSettlementFilter.Widget.ShowNeutral>Показать нейтралов</GlobalMapSettlementFilter.Widget.ShowNeutral>
+    <GlobalMapSettlementFilter.Widget.ShowHostile>Показать врагов</GlobalMapSettlementFilter.Widget.ShowHostile>
+    <GlobalMapSettlementFilter.Widget.HideEverVisited>Скрыть посещённых</GlobalMapSettlementFilter.Widget.HideEverVisited>
+    <GlobalMapSettlementFilter.Widget.HideVisitedRecently>Скрыть без обновления торговли</GlobalMapSettlementFilter.Widget.HideVisitedRecently>
+</LanguageData>
