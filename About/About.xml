@@ -3,12 +3,17 @@
     <name>Global map settlement filter</name>
     <author>Johnson1893</author>
     <packageId>johnson1893.global.map.settlement.filter</packageId>
-    <url>https://github.com/Relvl/</url>
+    <url>https://github.com/Relvl/Rimworld_GlobalMapSettlementFilter</url>
     <supportedVersions>
         <li>1.5</li>
     </supportedVersions>
     <description>
         <![CDATA[
+A small mod that allows you to disable global map icons for settlements that you are not interested in.
+
+Allows you to disable enemies, alliances, neutrals, visited, and visited with trade that has not yet been updated.
+
+It will be useful for those who like to trade in caravans or SRTS (or another vehicles mod).
 ]]>
     </description>
     <modDependencies>

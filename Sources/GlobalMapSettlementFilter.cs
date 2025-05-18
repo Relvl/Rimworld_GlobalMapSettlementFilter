@@ -51,7 +51,10 @@ public class GlobalMapSettlementFilter : Mod
 
         GUI.DrawTexture(widgetRect, TexUI.HighlightTex);
         Widgets.DrawBox(widgetRect);
-        Widgets.Label(widgetRect, labelTitle);
+
+        Text.Font = GameFont.Small;
+        Widgets.Label(widgetRect with { xMin = widgetRect.xMin + 6 }, labelTitle);
+        Text.Font = GameFont.Tiny;
 
         widgetRect = widgetRect.ContractedBy(4f);
         var rect = new Rect(widgetRect.x, widgetRect.y + Text.LineHeight, widgetRect.width, 20f);
@@ -100,7 +103,7 @@ public class GlobalMapSettlementFilter : Mod
         }
 
         Widgets.CheckboxDraw(inRect.x, inRect.y, value, false, 20f);
-        Widgets.Label(inRect with { xMin = inRect.xMin + 24f }, label);
+        Widgets.Label(inRect with { xMin = inRect.xMin + 24f, y = inRect.y + 3f }, label);
         inRect.y += 24f;
     }
 
